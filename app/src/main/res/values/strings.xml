@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Muleh</string>
+    <string name="masuk">Masuk</string>
+    <string name="logo">Logo</string>
+    <string name="dekorasi">dekorasi</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="nama">Nama</string>
+    <string name="daftar">Daftar</string>
+
+    <string-array name="tujuan">
+        <item>Kelampok</item>
+        <item>Kertayasa</item>
+        <item>Mandiraja</item>
+        <item>Purwonegoro</item>
+        <item>Gumiwang</item>
+        <item>Proyek</item>
+        <item>Pucang</item>
+        <item>Banjarnegara</item>
+    </string-array>
+    <string name="title_activity_driver_location">Map</string>
+</resources>

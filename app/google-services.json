@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487478985153",
+    "firebase_url": "https://muleh-1c713.firebaseio.com",
+    "project_id": "muleh-1c713",
+    "storage_bucket": "muleh-1c713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487478985153:android:73e857529d0fcab8756f40",
+        "android_client_info": {
+          "package_name": "com.rpl.muleh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487478985153-3qciqhedjohm91s8ltf72vtdom7jelo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rpl.muleh",
+            "certificate_hash": "654b47e9970d1161e5e8fae17afbfe1d9e2cb422"
+          }
+        },
+        {
+          "client_id": "487478985153-46vsgf7t7tcg4acdordbc9fgluo77id7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYx7Vbk1l3AsaO2WoZLL68d12HUktFD08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487478985153-46vsgf7t7tcg4acdordbc9fgluo77id7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
